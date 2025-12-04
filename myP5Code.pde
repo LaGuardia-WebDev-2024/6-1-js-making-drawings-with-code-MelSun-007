@@ -1,6 +1,6 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
-    size(400, 400); 
+    size(600, 400); 
     background(255,255,255,100);
 }
 
@@ -11,11 +11,16 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
-  
-
-}
-
+  ellipse(100,50,80,80);
+  ellipse(100,138,120,100);
+ellipse(100,249,150,120);
+ellipse(191,150,70,0);
+ellipse(4,150,70,0);
+ellipse(100,145,2,2);
+ellipse(100,120,2,2);
+ellipse(100,170,2,2);
+ellipse(87,50,2,2);
+ellipse(114,50,2,2);}
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
 
